@@ -1,0 +1,6 @@
+# Australian Broadcasting Corporation (http://www.abc.net.au/radio/listenlive.htm#shoutcastaac)
+abc http://shoutmedia.abc.net.au:10424/
+bbc http://mp32.bbc.streamuk.com:80/
+# Minnesota Public Radio (http://minnesota.publicradio.org/radio/services/nis/streams.shtml)
+mpr http://newsstream1.publicradio.org:80/
+npr http://npr.ic.llnwd.net/stream/npr_live24
