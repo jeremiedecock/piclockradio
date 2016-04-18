@@ -9,7 +9,7 @@ TODO...
 ## Dependencies
 
 - python-feedparser
-- soft-on-off-screen-switch (https://github.com/volab/soft-on-off-screen-switch)
+- soft-on-off-screen-switch (https://github.com/jeremiedecock/soft-on-off-screen-switch)
 
 ## Install
 
@@ -42,7 +42,6 @@ Additionally, you should remove the xscreensaver line.
 - Complete this file (see <TODO> tags)
 
 ## Crontab example
-
 
 ```
 0 8 * * 1-5   ogg123 -d au -f - /usr/share/sounds/piclockradio/test.oga | aplay
